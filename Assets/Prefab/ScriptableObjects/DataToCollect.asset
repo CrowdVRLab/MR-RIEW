@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdbc70ccbedd0674f8ea5e69b0e38079, type: 3}
+  m_Name: DataToCollect
+  m_EditorClassIdentifier: 
+  questionaire:
+    parts:
+    - name: WithinTrialQuestionaire
+      referenceName: Trial_01_Questionnaire
+      description: 
+      subparts:
+      - {fileID: 0}
+      - {fileID: 0}
+      subpartsScripts:
+      - {fileID: 11400000, guid: 979859e141e77f1498554a8cd3c65ba6, type: 2}
+      - {fileID: 11400000, guid: d193ca38351ab4148a528e7488c6b4b0, type: 2}
+    - name: WithinTrialQuestionaire
+      referenceName: Trial_02_Questionnaire
+      description: 
+      subparts:
+      - {fileID: 0}
+      - {fileID: 0}
+      subpartsScripts:
+      - {fileID: 11400000, guid: 979859e141e77f1498554a8cd3c65ba6, type: 2}
+      - {fileID: 11400000, guid: d193ca38351ab4148a528e7488c6b4b0, type: 2}
+    - name: WithinTrialQuestionaire
+      referenceName: Trial_03_Questionnaire
+      description: 
+      subparts:
+      - {fileID: 0}
+      - {fileID: 0}
+      subpartsScripts:
+      - {fileID: 11400000, guid: 979859e141e77f1498554a8cd3c65ba6, type: 2}
+      - {fileID: 11400000, guid: d193ca38351ab4148a528e7488c6b4b0, type: 2}
+    - name: Pre Experiment Questionaire
+      referenceName: preexperiment
+      description: 
+      subparts:
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      subpartsScripts:
+      - {fileID: 11400000, guid: 1b9cc9d44df15da49bc9af79a940764e, type: 2}
+      - {fileID: 11400000, guid: 7613058b9ab72bf468c7149a042f96c8, type: 2}
+      - {fileID: 11400000, guid: 758df51954982a847b4ba0cdb7c7733d, type: 2}
+      - {fileID: 11400000, guid: 50e59459c2da6274aab5790bb3611969, type: 2}
+      - {fileID: 11400000, guid: c427f25ed976cfb4aad65fdda7bd8e93, type: 2}
+      - {fileID: 11400000, guid: 80fef9c96e92f324ebc9d9e9c113515f, type: 2}
+      - {fileID: 11400000, guid: eef1fba24d62dda44958730cdd6c36e7, type: 2}
+      - {fileID: 11400000, guid: 6be6fa0aad1553648bd404c8a3c336be, type: 2}
+      - {fileID: 11400000, guid: f733caa70eab3a045a1f0339e128cc53, type: 2}
+    - name: Post Experiment Questionaire
+      referenceName: postexperiment
+      description: 
+      subparts:
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      subpartsScripts:
+      - {fileID: 11400000, guid: 6be6fa0aad1553648bd404c8a3c336be, type: 2}
+      - {fileID: 11400000, guid: f733caa70eab3a045a1f0339e128cc53, type: 2}
+      - {fileID: 11400000, guid: 87992e0b9676e2f468d4026613b71c96, type: 2}
+  sequenceExp:
+  - Trial_02
+  - Trial_03
+  - Trial_01
+  sequenceImp: 010000000200000000000000

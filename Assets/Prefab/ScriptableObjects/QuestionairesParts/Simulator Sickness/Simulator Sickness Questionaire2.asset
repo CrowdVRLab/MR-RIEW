@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a63d3daa78898c740ba39ce9ae54e02c, type: 3}
+  m_Name: Simulator Sickness Questionaire2
+  m_EditorClassIdentifier: 
+  name: Simulator Sickness Questionnaire 2/4
+  description: 'instructions: please fill in this questionnaire. use the handle slider
+    below to set the intensity of the sympthoms that apply to you. A completely grey
+    slider (handle on the left) means None a blue slider (handles on the right) means
+    Sever'
+  questions:
+  - question: Difficulty focusing
+    helpText: 
+    uielement: 0
+    valuebool: 0
+    valuefloat: 0
+    Options: []
+    answer: 
+  - question: Salivation increase
+    helpText: 
+    uielement: 0
+    valuebool: 0
+    valuefloat: 0
+    Options: []
+    answer: 
+  - question: Salivation decrease
+    helpText: 
+    uielement: 0
+    valuebool: 0
+    valuefloat: 0
+    Options: []
+    answer: 
+  - question: Sweating
+    helpText: 
+    uielement: 0
+    valuebool: 0
+    valuefloat: 0
+    Options: []
+    answer: 
+  - question: 'Nausea '
+    helpText: 
+    uielement: 0
+    valuebool: 0
+    valuefloat: 0
+    Options: []
+    answer: 
+  - question: Difficulty concentrating
+    helpText: 
+    uielement: 0
+    valuebool: 0
+    valuefloat: 0
+    Options: []
+    answer: 

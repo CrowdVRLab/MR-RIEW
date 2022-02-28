@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a63d3daa78898c740ba39ce9ae54e02c, type: 3}
+  m_Name: Demographics4
+  m_EditorClassIdentifier: 
+  name: Demographics 4/7
+  description: 'Please give us some information about yourself '
+  questions:
+  - question: Where is your home located?
+    helpText: Use the below radio buttons to chose your location
+    uielement: 1
+    valuebool: 0
+    valuefloat: 0
+    Options:
+    - North  America (Usa, Canada)
+    - South America (Brazil, Argentina, Cile, ect..)
+    - Central America (Mexico, Panama, nicaragua, ect .. )
+    - North Europe(United Kingdom, Norway, Sweden ,etc..)
+    - Western Europe (France, Germany, Austria etc..)
+    - Southern Europe (Spain, Italy, Grece, etc..)
+    - Eastern Europe (Polland, Hungary, Czech Republic, etc.. )
+    - Northen Africa (Egypt, Morocco, Algeria, etc..)
+    - Western Africa (Nigeria, Sierra Leone, Senegal, etc..)
+    - Eastern Africa (Kenya, Ethiopia, Somalia etc.. )
+    - South Africa (Namibia, Mozambique, etc..)
+    - North and Central Asia (Russia,Kazakhstan, Uzbekistan, etc.. )
+    - East/Southeast Asia (Cina, Japan, Indonesia, etc... )
+    - South Asia (India, Iran, etc.. )
+    - Australia (New Zeland , etc.. )
+    answer: 

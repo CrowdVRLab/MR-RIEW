@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a63d3daa78898c740ba39ce9ae54e02c, type: 3}
+  m_Name: Immersion1
+  m_EditorClassIdentifier: 
+  name: Immersion 1/2
+  description: Please use the sliders to answer the below questions. A fully grey
+    slider (slider handle set on the left of slider) indicates a very low value,
+    a fully blue slider (slider handle set on the right of the slider) indicates
+    a very high value.
+  questions:
+  - question: Stimulation
+    helpText: I felt stimulated by the virtual environment.
+    uielement: 0
+    valuebool: 0
+    valuefloat: 0
+    Options: []
+    answer: 
+  - question: Involvment
+    helpText: I become so involved in the virtual environment that I was not aware
+      of things happening around me.
+    uielement: 0
+    valuebool: 0
+    valuefloat: 0
+    Options: []
+    answer: 
+  - question: Identification
+    helpText: I identified to the character I played in the virtual environment.
+    uielement: 0
+    valuebool: 0
+    valuefloat: 0
+    Options: []
+    answer: 
+  - question: Felt Inside the VR enviroment
+    helpText: I become so involved in the virtual environment that it is if I was
+      inside the game rather than manipulating a gamepad and watching a screen.
+    uielement: 0
+    valuebool: 0
+    valuefloat: 0
+    Options: []
+    answer: 

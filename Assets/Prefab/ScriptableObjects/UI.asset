@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a030b94e266d1ab4f9639a2b4e5dd09d, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: Assembly-CSharp::QuestionaireUI
+  Container: {fileID: 3519904066260106921, guid: 0c26e8b51c877114092d192807262329,
+    type: 3}
+  Dropdown: {fileID: 651483682595100403, guid: 323b93b83e145664aa9fe05b55a59fc5, type: 3}
+  Slider: {fileID: 9150473396913239133, guid: 88d6bb949d2bd504c8709aa94327b36a, type: 3}
+  PanelTitle: {fileID: 2746117410779523705, guid: d3e42fc82ff40ec4da2f8f0821dd35c4,
+    type: 3}
+  Title: {fileID: 2116957152038178173, guid: 0de83de3deead0041a053f7985aec418, type: 3}
+  Text: {fileID: 1231229959634140257, guid: 9b99792d945ab4e49b3e5ac2200e859f, type: 3}
+  Radio: {fileID: 4925761793013971008, guid: 4ab7ab08338b1ad4ebde4526e22abfa6, type: 3}
+  Button: {fileID: 164291860591527943, guid: aad1cfc1dcc42b147b910916ce5fed2e, type: 3}
+  Notifications: {fileID: 7296900948757224305, guid: cd87f139346f8304ab52403cff49e490,
+    type: 3}

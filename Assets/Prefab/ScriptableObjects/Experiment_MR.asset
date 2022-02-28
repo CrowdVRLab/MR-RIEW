@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3822d08ab514b7c44b307f5c8984fd34, type: 3}
+  m_Name: Experiment_MR
+  m_EditorClassIdentifier: 
+  Session:
+  - name: 'MREW Experiment '
+    randomizeTrialsOrder: 0
+    trials:
+    - name: Trial_MR_01_Title
+      sceneName: Trial_MR_01
+      questionaireRefName: Trial_01_Questionnaire
+    - name: Trial_MR_02_Title
+      sceneName: Trial_MR_02
+      questionaireRefName: Trial_02_Questionnaire

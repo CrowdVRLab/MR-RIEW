@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/experiment scenes/Start_e.unity
+    guid: a83e39183255bec4d8dd00e8e3a8f961
+  - enabled: 1
+    path: Assets/Scenes/experiment scenes/Trial_01.unity
+    guid: 23de1451190d4d84bafc03e13ebbd0ea
+  - enabled: 1
+    path: Assets/Scenes/experiment scenes/Trial_02.unity
+    guid: 0563965003fe2804e8c08d9c146e3101
+  - enabled: 1
+    path: Assets/Scenes/experiment scenes/Trial_03.unity
+    guid: 3f0c33cb6ae9698429ec072f18a9e97c
+  - enabled: 1
+    path: Assets/Scenes/experiment scenes/Trial_MR_01.unity
+    guid: 8f3dc9caee80e1a4883bbf41604891eb
+  - enabled: 1
+    path: Assets/Scenes/experiment scenes/Trial_MR_02.unity
+    guid: 7d82f02595a33ef44b53a90a92042761
+  - enabled: 1
+    path: Assets/Scenes/experiment scenes/Lobby_e.unity
+    guid: ee36181a16f8ac0449b46dd282106b7b
+  - enabled: 1
+    path: Assets/Scenes/experiment scenes/End_e.unity
+    guid: ca7bed5ac6b0d4a479c3106e1d8fb55f
+  - enabled: 0
+    path: Assets/Oculus/SampleFramework/Usage/Passthrough/Scenes/OverlayPassthrough.unity
+    guid: 698c56db7f615834881cf3fad4dae4b5
+  - enabled: 0
+    path: Assets/Oculus/SampleFramework/Usage/Passthrough/Scenes/AugmentedObjects.unity
+    guid: 9afeada2bbd240b4981cfb6abb525418
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 24702f1b465bdb54aab3f0764adf9615,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 19ce41c2374a6dc429ae38f614f67ede,
+      type: 2}
