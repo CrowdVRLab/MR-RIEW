@@ -12,6 +12,8 @@ Unity 2021.2.2.7f1, current platforms supported: Oculus Quest, Oculus Quest 2
 
 Documentation: [Here](https://github.com/CrowdVRLab/MR-RIEW/blob/main/HowToUse.md).
 
+Tutorial's Youtube Playlist: [Here](https://www.youtube.com/playlist?list=PLCsH8hycEVh8p6k0wocmQen9OFggqp5CM).
+
 
 ## Authors
 
