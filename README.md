@@ -1,4 +1,4 @@
-# MR-RIEW
+# MR-RIEW 
 
 ## An MR Toolkit for Designing Remote Immersive Experiment Workflows
 
@@ -20,7 +20,7 @@ Tutorial's Youtube Playlist: [Here](https://www.youtube.com/playlist?list=PLCsH8
 Riccardo Bovo, Daniele Giunchi, Anthony Steed, Thomas Heines
 
 
-Imperial College
+Imperial College London
 
 University College London
 
