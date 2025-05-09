@@ -47,6 +47,11 @@ For enabling Oculus Passthrough (that allow MR) do the following:
 
 - type in a shell "adb shell setprop debug.oculus.experimentalEnabled 1" with Oculus connected via cable
 
+## Citation
+
+If you use **MR-RIEW** in academic work, please cite the following:
+
+```bibtex
 @INPROCEEDINGS{9757432,
   author    = {Bovo, Riccardo and Giunchi, Daniele and Steed, Anthony and Heinis, Thomas},
   booktitle = {2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)}, 
