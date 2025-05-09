@@ -46,3 +46,13 @@ For enabling Oculus Passthrough (that allow MR) do the following:
 - IMPORTANT: Select OVRManager and enable "Experimental Features Enabled" and "Passthrough Capability Enabled"
 
 - type in a shell "adb shell setprop debug.oculus.experimentalEnabled 1" with Oculus connected via cable
+
+@INPROCEEDINGS{9757432,
+  author    = {Bovo, Riccardo and Giunchi, Daniele and Steed, Anthony and Heinis, Thomas},
+  booktitle = {2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)}, 
+  title     = {{MR-RIEW}: An MR Toolkit for Designing Remote Immersive Experiment Workflows}, 
+  year      = {2022},
+  pages     = {766--767},
+  doi       = {10.1109/VRW55335.2022.00234},
+  keywords  = {Human-centered computing—Visualization—Treemaps; VR; MR; remote experiments; Unity}
+}
